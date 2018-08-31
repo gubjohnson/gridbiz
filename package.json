@@ -1,0 +1,11 @@
+{
+  "name": "gridbiz",
+  "version": "1.0.0",
+  "description": "gird practice",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Johnny Chen",
+  "license": "ISC"
+}
